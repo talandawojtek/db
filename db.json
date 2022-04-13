@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "234234",
+      "description": "",
+      "category": "",
+      "campaign": [
+        "All"
+      ],
+      "hero": false,
+      "img": "https://res.cloudinary.com/gt-group/image/upload/products/234234.png"
+    },
+    {
+      "id": "32re235432",
+      "description": "",
+      "category": "",
+      "campaign": [
+        "All"
+      ],
+      "hero": false,
+      "img": "https://res.cloudinary.com/gt-group/image/upload/products/32re235432.png"
+    },
+    {
+      "id": "4564",
+      "description": "",
+      "category": "",
+      "campaign": [
+        "All"
+      ],
+      "hero": false,
+      "img": "https://res.cloudinary.com/gt-group/image/upload/products/4564.png"
+    },
+    {
+      "id": "150003",
+      "description": "",
+      "category": "",
+      "campaign": [
+        "All"
+      ],
+      "hero": false,
+      "img": "https://res.cloudinary.com/gt-group/image/upload/products/150003.png"
+    },
+    {
+      "id": "169595",
+      "description": "",
+      "category": "",
+      "campaign": [
+        "All"
+      ],
+      "hero": false,
+      "img": "https://res.cloudinary.com/gt-group/image/upload/products/169595.png"
+    },
+    {
+      "id": "128212",
+      "description": "",
+      "category": "",
+      "campaign": [
+        "All"
+      ],
+      "hero": false,
+      "img": "https://res.cloudinary.com/gt-group/image/upload/products/128212.png"
+    }
+  ]
+}
